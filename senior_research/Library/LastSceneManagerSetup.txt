@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Main.unity
+- path: C:/Users/Success/Documents/stuff/ART2/ART2-HoloLens/ART2 - gamify/Assets/Scenes/Main.unity
   isLoaded: 1
   isActive: 1

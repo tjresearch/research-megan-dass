@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>senior_research</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Success\Documents\12th grade\SeniorResearch\research-megan-dass\senior_research\Build\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Success\Documents\12th grade\SeniorResearch\research-megan-dass\senior_research\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

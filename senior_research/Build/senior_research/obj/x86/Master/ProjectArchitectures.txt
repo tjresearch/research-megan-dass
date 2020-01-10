@@ -1,0 +1,4 @@
+C:\Users\Success\Documents\12th grade\SeniorResearch\research-megan-dass\senior_research\Build\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Success\Documents\12th grade\SeniorResearch\research-megan-dass\senior_research\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Success\Documents\12th grade\SeniorResearch\research-megan-dass\senior_research\Build\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Success\Documents\12th grade\SeniorResearch\research-megan-dass\senior_research\Build\senior_research\senior_research.csproj;x86
